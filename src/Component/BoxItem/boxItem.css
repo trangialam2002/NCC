@@ -1,0 +1,11 @@
+.item{
+    width: 31%;
+    margin-bottom: 20px;
+}
+.item>p {
+    font-size: 20px;
+    font-family: cursive;
+    color: #000;
+    font-weight: 700;
+    padding: 10px 0;
+}
